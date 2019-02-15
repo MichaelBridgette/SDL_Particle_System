@@ -1,0 +1,4 @@
+﻿  Particle.cpp
+c:\users\micha\documents\particle system sdl\particle system sdl\particle.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\micha\documents\particle system sdl\particle system sdl\particle.cpp(7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Particle System SDL.vcxproj -> C:\Users\micha\Documents\Particle System SDL\Debug\Particle System SDL.exe
